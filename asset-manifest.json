@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/alondubuisi/static/css/main.9f4ac10b.css",
+    "main.js": "/alondubuisi/static/js/main.07917e9b.js",
+    "static/media/about-profile-pic.jpg": "/alondubuisi/static/media/about-profile-pic.7bb578dc23f0cb8691ef.jpg",
+    "index.html": "/alondubuisi/index.html",
+    "main.9f4ac10b.css.map": "/alondubuisi/static/css/main.9f4ac10b.css.map",
+    "main.07917e9b.js.map": "/alondubuisi/static/js/main.07917e9b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9f4ac10b.css",
+    "static/js/main.07917e9b.js"
+  ]
+}
