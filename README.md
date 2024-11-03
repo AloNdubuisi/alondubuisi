@@ -1,5 +1,8 @@
-<h1 align="center">Hi 👋, I'm ALO NDUBUISI</h1>
-<h3 align="center">My name is Alo Ndubuisi, I am a Fullstack Web Developer with 3+ years of experience building and Teaching people web applications and APIs. I am skilled in Python/Django, ReactJs, Nextjs and JavaScript. I have a strong foundation in computer science . I am passionate about solid, functional and scalable web application, and I enjoy learning and experimenting with new technologies. Connect me for any project that will challenge me, and i will demonstrate my problem solving skills.</h3>
+<h1 align="center">Hi There👋, I am ALO NDUBUISI</h1>
+<ul>
+  <li>- 🌱 I’m a Web developer & Instructor </li>
+  <li>- 🔭 I’m currently studying Web development with Nodejs</li>
+</ul>
 
 - 👨‍💻 All of my projects are available at [https://github.com/AloNdubuisi/](https://github.com/AloNdubuisi/)
 
