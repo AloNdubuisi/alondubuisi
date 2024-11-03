@@ -1,5 +1,5 @@
 <h1 align="center">Hi There👋, I am ALO NDUBUISI</h1>
-<ul>
+<ul style="list-style:none">
   <li>- 🌱 I’m a Web developer & Instructor </li>
   <li>- 🔭 I’m currently studying Web development with Nodejs</li>
 </ul>
