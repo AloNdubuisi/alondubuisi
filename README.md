@@ -1,10 +1,10 @@
 <h1 align="center">Hi There👋, I am ALO NDUBUISI</h1>
-<ul>
-  <li">- 🌱 I’m a Web developer & Instructor </li>
-  <li>- 🔭 I’m currently studying Web development with Nodejs</li>
-  <li>- 👯 I’m looking to collaborate on cool and interesting Web2 based project & Instructor role</li>
-  <li>- 💬 Ask me about Pyth, Django, PHP, Laravel & MYSQL</li>
-</ul>
+<div>
+  - 🌱 I’m a Web developer & Instructor </li>
+  - 🔭 I’m currently studying Web development with Nodejs</li>
+  - 👯 I’m looking to collaborate on cool and interesting Web2 based project & Instructor role</li>
+  - 💬 Ask me about Pyth, Django, PHP, Laravel & MYSQL</li>
+</div>
 
 - 👨‍💻 All of my projects are available at [https://github.com/AloNdubuisi/](https://github.com/AloNdubuisi/)
 
