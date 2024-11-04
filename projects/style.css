@@ -95,8 +95,8 @@ header .navbar ul li a{
 }
 header .navbar ul li a.active,
 header .navbar ul li a:hover{
-  color: #011aff;
-  border-bottom: .2rem solid #011aff;
+  color: #000000;
+  border-bottom: .2rem solid #df0104;
   padding: .5rem 0;
 }
 /* navbar ends */
@@ -144,7 +144,7 @@ header .navbar ul li a:hover{
     padding: 1rem;
     color: #fff;
     border-radius: .5rem;
-    border-bottom: .5rem solid #011aff;
+    border-bottom: .5rem solid #df0104;
   }
   .fa-times{
     transform: rotate(180deg);
@@ -157,9 +157,10 @@ header .navbar ul li a:hover{
 
 /* work section starts */
 .work{
-  /* background: #010124; */
+  background: #010124;
   background: linear-gradient(to bottom, #010136, #00003a);
   margin-top: 5rem;
+  display: none;
 }
 .work h2{
   color: #fff;
