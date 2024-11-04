@@ -19,4 +19,10 @@ Particle.js, Typed.js, Tilt.js, Scroll Reveal, Tawk.to, Font Awesome and JSON
 
 Feel free to reach me through the below handles if you'd like us to connect and discuss for any project.
 
-![Facebook] https://web.facebook.com/profile.php?id=61550813414949
+<a href="https://web.facebook.com/profile.php?id=61550813414949">
+    <img src="https://img.shields.io/badge/facebook-%230769AD.svg?style=for-the-badge&logo=facebook&logoColor=white%22" />
+</a>
+
+<a href="https://github.com/AloNdubuisi">
+    <img src="https://img.shields.io/badge/github-%230769AD.svg?style=for-the-badge&logo=github&logoColor=white%22" />
+</a>
