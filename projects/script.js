@@ -30,7 +30,18 @@ $(document).ready(function () {
 //     });
 
 // fetch projects start
-function getProjects() {
+
+// const fetchProject = async()=> {
+//     const response = await fetch ("projects.json")
+//     const data = response.json()
+//     console.log(data)
+// }
+
+// fetchProject();
+
+// console.log("Okay it runing")
+
+function  getProjects() {
     return fetch("projects.json")
         .then(response => response.json())
         .then(data => {
@@ -46,7 +57,7 @@ function showProjects(projects) {
         projectsHTML += `
         <div class="grid-item ${project.category}">
         <div class="box tilt" style="width: 380px; margin: 1rem">
-      <img draggable="false" src="./assets/images/projects/${project.image}.PNG" alt="project" />
+      <img draggable="false" src="./assets/images/projects/${project.image}" alt="project" />
       <div class="content">
         <div class="tag">
         <h3>${project.name}</h3>
