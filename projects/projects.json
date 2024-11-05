@@ -20,7 +20,7 @@
     }
   },
   {
-    "name": "seedworth",
+    "name": "seedworth plc",
     "desc": "seedworthplc is a Fullstack online banking website for business investments and daily deposits and withdrawals",
     "image": "seedworth",
     "category": "website",
@@ -28,5 +28,15 @@
       "view": "https://seedworthplc.com/",
       "code": "https://seedworthplc.com/"
     }
+  },
+  {
+    "name": "NextstersHub",
+    "desc": "NextstersHub is an online tech training platforms for any tech related skills.",
+    "image": "nextsters",
+    "category": "website",
+    "links": {
+      "view": "https://nextstershub.com/",
+      "code": "https://nextstershub.com/"
+    }
   }
-  ]
+]
