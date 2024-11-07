@@ -953,17 +953,17 @@ header .navbar ul li a:hover {
   min-height: 60vh;
 }
 .contact .container {
-  max-width: 1100px;
+  max-width: 800px;
   width: 100%;
   background: #fff;
   border-radius: 1.5rem;
-  margin: 2rem 0;
+  margin: 1rem auto;
   box-shadow: 0 5px 10px rgba(0, 0, 0, 0.15);
 }
 .contact .container .content {
   display: flex;
   align-items: center;
-  justify-content: space-between;
+  justify-content: center;
   padding: 2.5rem 2rem;
 }
 .contact .content .image-box {
@@ -1045,12 +1045,17 @@ form .message textarea {
 form .message textarea::-webkit-scrollbar {
   width: 0px;
 }
-form .button-area {
+.content a {
   display: flex;
-  float: right;
+  align-items: center;
+  justify-content: center;
   flex-direction: row-reverse;
 }
-.button-area button {
+.content a{
+  color: #fff;
+}
+
+.content a {
   color: #fff;
   border: none;
   outline: none;
@@ -1063,8 +1068,13 @@ form .button-area {
   transition: 0.3s ease;
   font-family: "Nunito", sans-serif;
 }
-.button-area button:hover {
-  background: #df0104;
+.content a:hover {
+  background: #fff;
+  border: 2px solid #df0104;
+  color: #df1040;
+}
+.content a:hover {
+  color: #df1040;
 }
 .button-area span {
   font-size: 17px;
@@ -1081,6 +1091,7 @@ form .button-area {
 }
 .button-area button:hover i {
   left: 8px;
+  color: #df0104;
 }
 /* contact section media queries starts */
 @media (max-width: 900px) {
