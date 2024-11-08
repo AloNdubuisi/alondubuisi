@@ -113,7 +113,7 @@ function showProjects(projects) {
       <img draggable="false" src="./assets/images/projects/${project.image}.PNG" alt="project" />
       <div class="content">
         <div class="tag">
-        <h3>${project.name}</h3>
+        <h3><a href="${project.links.view}" class="btn" target="_blank" style="color: #fff"><i class="fas fa-eye"></i>${project.name}</a></h3>
         </div>
         <div class="desc">
           <p>${project.desc}</p>
