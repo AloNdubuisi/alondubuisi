@@ -240,7 +240,7 @@ header .navbar ul li a:hover{
   left: -16px;
 }
 .experience .content {
-  background-color: #f68c09;
+  border: medium solid #382728;
   position: relative;
   border-radius: 6px;
 }
@@ -248,6 +248,7 @@ header .navbar ul li a:hover{
   font-size: 1.3rem;
   padding-top: 1.5rem;
   padding-left: 1.5rem;
+  color: #df0104;
 }
 .experience .content .desc{
   margin-left: 1.5rem;
@@ -273,7 +274,7 @@ header .navbar ul li a:hover{
   border-radius: .5em;
   transition: 0.5s;
   color: #fff;
-  background: #2506ad;
+  background: #df0104;
   box-shadow: 0px 5px 10px rgba(48, 68, 247, .6);
   text-align: center;
 }
@@ -288,7 +289,9 @@ header .navbar ul li a:hover{
   transition: 0.3s;
 }
 .morebtn .btn:hover{
-  background: #1a047e;
+  background: #ffff;
+  color: #df0104;
+  border: 2px solid #df0104;
 }
 .morebtn .btn:hover i {
   transform: translateX(-8px);
