@@ -956,7 +956,7 @@ header .navbar ul li a:hover {
   background: #e5ecfb;
   min-height: 60vh;
 }
-.contact .container {
+.contact .container{
   max-width: 800px;
   width: 100%;
   background: #fff;
@@ -964,6 +964,18 @@ header .navbar ul li a:hover {
   margin: 1rem auto;
   box-shadow: 0 5px 10px rgba(0, 0, 0, 0.15);
 }
+#contact-info{
+  text-align: center;
+}
+#contact-info span.email,
+#contact-info span.phone{
+  text-transform: lowercase;
+  color: #df0104;
+}
+#contact-info span{
+  font-size: 2rem;
+}
+  font-size: 2rem;
 .contact .container .content {
   display: flex;
   align-items: center;

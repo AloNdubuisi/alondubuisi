@@ -38,5 +38,15 @@
       "view": "https://nextstershub.com/",
       "code": "https://nextstershub.com/"
     }
+  },
+  {
+    "name": "FindLodge",
+    "desc": "Findlodge is Nigerian's No.1 Peer to peer(P2P) accommodation sharing platform that allow people to list their rooms, find rooms or even team up with others to share house or room",
+    "image": "findlodge",
+    "category": "website",
+    "links": {
+      "view": "https://findlodge.ng/",
+      "code": "https://findlodge.ng/"
+    }
   }
 ]
