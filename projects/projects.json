@@ -48,5 +48,25 @@
       "view": "https://findlodge.ng/",
       "code": "https://findlodge.ng/"
     }
+  },
+  {
+    "name": "kleinworths",
+    "desc": "Klein Worths generates the maximum possible profit using various trading tools. We provide exemplary service to our clients throughout this process and aim to deliver a superior rate of return to our investors and partners",
+    "image": "kleinworths",
+    "category": "website",
+    "links": {
+      "view": "https://kleinworths.com/",
+      "code": "https://kleinworths.com/"
+    }
+  },
+  {
+    "name": "Photography Landing Page",
+    "desc": "See the Beauty of the World Through my world, is basically for a photography business landing page",
+    "image": "photgraphylandingpage",
+    "category": "website",
+    "links": {
+      "view": "https://alondubuisi.github.io/photography-full-landing-page/index.html",
+      "code": "https://alondubuisi.github.io/photography-full-landing-page/index.html"
+    }
   }
 ]
