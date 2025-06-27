@@ -1,12 +1,12 @@
 [
   {
     "name": "Rizoka NG Limited",
-    "desc": "fully functional fintech application for sells of all kinds of gifts cards, bills payment, cable subs and flight booking.",
+    "desc": "Rizoka is a platform that provides a wide range of financial services, making Transactions Seamless, Safe and Secure.",
     "image": "rizoka",
     "category": "web app",
     "links": {
-      "view": "https://www.rizoka.ng",
-      "code": "https://www.rizoka.ng"
+      "view": "https://rizoka.com",
+      "code": "https://rizoka.com"
     }
   },
   {
@@ -30,13 +30,13 @@
     }
   },
   {
-    "name": "NextstersHub",
-    "desc": "NextstersHub is an online tech training platforms for any tech related skills.",
-    "image": "nextsters",
+    "name": "Longivity Lab",
+    "desc": "Longivity Lab is dedicated platform to empower seniors, caregivers, and families with accurate, inspiring, and practical health information that promotes vibrant, independent living well into the golden years.",
+    "image": "longivity",
     "category": "website",
     "links": {
-      "view": "https://nextstershub.com/",
-      "code": "https://nextstershub.com/"
+      "view": "https://longivitylab.com/",
+      "code": "https://longivitylab.com/"
     }
   },
   {
